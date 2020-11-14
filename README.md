@@ -1,12 +1,12 @@
-# Folletto Bot
+# Folletto Girl & Folletto Boy
 
-Bot officiel de la guild **Folletto**,  
-je dispose de plusieurs commandes divers mais aussi de commandes de statistiques jeux.  
+Bots officiels de la guild **Folletto**,  
+Disposant chacun de fonctionnalités très intéressante.
 
 
 ## Ajouter à votre serveur
 
-[Cliquez sur le lien suivant pour ajouter le bot à votre serveur.](https://discord.com/api/oauth2/authorize?client_id=763080453094768711&permissions=3664960&scope=bot)
+[Ajouter Folletto Girl](https://discord.com/api/oauth2/authorize?client_id=763080453094768711&permissions=3664960&scope=bot) & [Ajouter FollettoBoy]()
 
 Prefix par défaut: `&`  
 Langue disponible: `Français`
