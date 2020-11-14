@@ -52,6 +52,6 @@ Langue disponible: `Français`
 ```
 
 ## Développeur & Discord
-Discord : **StarKleey 帅哥#6163**  
-Serveur bot : [🤖┃Folletto Help┃🤖](https://discord.gg/hyb9FAp)  
-Guild Folletto : [Folletto](https://discord.gg/86Rx6eY)
+Discord: **StarKleey 帅哥#6163**  
+Serveur bot: [🤖┃Folletto Help┃🤖](https://discord.gg/hyb9FAp)  
+Guild Folletto: [Folletto](https://discord.gg/86Rx6eY)
